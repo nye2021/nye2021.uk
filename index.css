@@ -4,11 +4,14 @@ body {
 }
 
 h1, h2 {
-  color: white;
-  text-align: center;
+	color: white;
+	text-align: center;
 }
 
 canvas {
 	cursor: crosshair;
 	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
 }
